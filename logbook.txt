@@ -1,0 +1,10 @@
+Primer paso: me fije en los datos, cambie los que tenian que ver con plata los hice a currency y redondie los numeros
+
+Segundo paso: Completar los datos faltanstes de las columnas en oreders.
+
+Esto lo voy a ser de 3 formas simplemente para aprender. Power query, Dax y con formulas
+
+En la primera con power query lo que hice fue mergear customers y producs a orders mediante sus ids y crear una query llamada orders full. El único que me quedo faltante fue
+Sales y lo hice con una custom column multiplicando el unite_price con el quantity
+
+Como contiunar: acomodar los querys steps y después continuar con los otros dos metodos
