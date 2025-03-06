@@ -7,4 +7,8 @@ Esto lo voy a ser de 3 formas simplemente para aprender. Power query, Dax y con 
 En la primera con power query lo que hice fue mergear customers y producs a orders mediante sus ids y crear una query llamada orders full. El único que me quedo faltante fue
 Sales y lo hice con una custom column multiplicando el unite_price con el quantity
 
-Como contiunar: acomodar los querys steps y después continuar con los otros dos metodos
+Hice de las 3 formas que había dicho, no me gustó con DAX porque no me deja modificar las colummnas originales, no las puedo cambiar el nombre ni borrar, por eso tengo que hacer las columnas
+calculadas y despues ir a power query para borrarlas y modificar el nombre, después lo hice con formulas, estuvo bueno para aprender pero considero que con power query peude ser un poco 
+raro el manejo de consultas y tablas duplicadas pero termina siendo la forma más practica
+
+Como contiunar: acomodar lso query de step del hecho con PQ y después ver el video la parte del index para que sirve
