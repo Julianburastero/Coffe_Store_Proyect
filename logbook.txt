@@ -11,4 +11,8 @@ Hice de las 3 formas que había dicho, no me gustó con DAX porque no me deja mo
 calculadas y despues ir a power query para borrarlas y modificar el nombre, después lo hice con formulas, estuvo bueno para aprender pero considero que con power query peude ser un poco 
 raro el manejo de consultas y tablas duplicadas pero termina siendo la forma más practica
 
-Como contiunar: acomodar lso query de step del hecho con PQ y después ver el video la parte del index para que sirve
+acomodé los step de pq y tuve que hacer todo lo de orders de vuelta
+
+hice el primer pivot tble y pivot chart referente a la facturación temporal
+
+Como contiunar: Acomodar el analisis temporal el primero por año segundo por mes tercero por semana y cuarto por día (ver)
